@@ -1,0 +1,104 @@
+body {
+  font-family: Roboto, sans-serif;
+}
+.container {
+  margin: 0 auto;
+  width: 1200px;
+}
+
+h1 {
+  font-size: 80px;
+  line-height: 94px;
+  margin: 48px 0;
+  padding-bottom: 17px;
+  border-bottom: 2px solid black;
+}
+
+.profile-pic {
+  width: 324px;
+  margin-bottom: 48px;
+}
+
+.mb-9 {
+  margin-bottom: 72px;
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 43px;
+  padding-bottom: 8px;
+  margin-bottom: 16px;
+  border-bottom: 1px solid black;
+}
+
+h2 span {
+  margin-left: 16px;
+  font-size: 24px;
+  color: #a00404;
+  line-height: 28px;
+}
+
+li {
+  list-style-type: none;
+  line-height: 36px;
+  font-size: 24px;
+  margin-bottom: 24px;
+}
+
+.dark {
+  background-color: #415165;
+  color: #ffffff;
+  padding-top: 24px;
+  padding-bottom: 36px;
+}
+
+.dark-inner {
+  width: 996px;
+  margin: 0 auto;
+}
+
+.dark-inner h2 {
+  text-align: center;
+  border-bottom: 1px solid #ffffff;
+  margin-bottom: 40px;
+}
+
+.dark-inner h2 span {
+  color: #ffffff;
+}
+
+.dark-inner li {
+  font-weight: 300;
+  margin-bottom: 16px;
+}
+
+.skills ul {
+  border-left: 1px solid #96a9c4;
+  width: 210px;
+  margin: 0 auto;
+  padding-left: 24px;
+}
+
+.experience ul {
+  border-left: 1px solid #96a9c4;
+  padding-left: 24px;
+  margin-left: 6px;
+}
+
+.experience li img {
+  display: block;
+  margin: 8px 0;
+}
+
+.experience p {
+  line-height: 30px;
+  font-size: 20px;
+}
+
+.contact {
+  text-align: center;
+}
+
+.social-icons img {
+  margin: 0 12px;
+}
